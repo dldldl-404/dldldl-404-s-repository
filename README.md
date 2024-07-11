@@ -7,4 +7,5 @@
    [thumbs up](https://img.animalplanet.co.kr/news/2020/08/05/700/qm05450908o2781sgd75.jpg)
    ![image](https://github.com/dldldl-404/dldldl-404-s-repository/assets/175283439/40f6a6c1-576e-48aa-88f1-597b174e3822)
 
+ + ** The most convienient language to learn was ![python](https://github.com/dldldl-404/dldldl-404-s-repository/assets/175283439/5912d5de-75a0-42da-b943-0abaa8848d68)
 
